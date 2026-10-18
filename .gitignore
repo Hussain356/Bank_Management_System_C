@@ -1,0 +1,22 @@
+# Build output
+build/
+bin/
+obj/
+bank
+*.exe
+*.o
+*.d
+
+# Runtime data (never commit real or demo databases)
+data/
+demo_data/
+*.db
+*.db.bak
+*.db.tmp
+statement_*.txt
+
+# IDE files
+*.layout
+*.depend
+.vscode/
+.idea/
